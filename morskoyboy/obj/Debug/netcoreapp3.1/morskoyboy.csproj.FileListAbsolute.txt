@@ -1,0 +1,14 @@
+C:\repo\repo_chelezo\morskoyboy\bin\Debug\netcoreapp3.1\morskoyboy.exe
+C:\repo\repo_chelezo\morskoyboy\bin\Debug\netcoreapp3.1\morskoyboy.deps.json
+C:\repo\repo_chelezo\morskoyboy\bin\Debug\netcoreapp3.1\morskoyboy.runtimeconfig.json
+C:\repo\repo_chelezo\morskoyboy\bin\Debug\netcoreapp3.1\morskoyboy.runtimeconfig.dev.json
+C:\repo\repo_chelezo\morskoyboy\bin\Debug\netcoreapp3.1\morskoyboy.dll
+C:\repo\repo_chelezo\morskoyboy\bin\Debug\netcoreapp3.1\morskoyboy.pdb
+C:\repo\repo_chelezo\morskoyboy\obj\Debug\netcoreapp3.1\morskoyboy.csproj.AssemblyReference.cache
+C:\repo\repo_chelezo\morskoyboy\obj\Debug\netcoreapp3.1\morskoyboy.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\repo_chelezo\morskoyboy\obj\Debug\netcoreapp3.1\morskoyboy.AssemblyInfoInputs.cache
+C:\repo\repo_chelezo\morskoyboy\obj\Debug\netcoreapp3.1\morskoyboy.AssemblyInfo.cs
+C:\repo\repo_chelezo\morskoyboy\obj\Debug\netcoreapp3.1\morskoyboy.csproj.CoreCompileInputs.cache
+C:\repo\repo_chelezo\morskoyboy\obj\Debug\netcoreapp3.1\morskoyboy.dll
+C:\repo\repo_chelezo\morskoyboy\obj\Debug\netcoreapp3.1\morskoyboy.pdb
+C:\repo\repo_chelezo\morskoyboy\obj\Debug\netcoreapp3.1\morskoyboy.genruntimeconfig.cache

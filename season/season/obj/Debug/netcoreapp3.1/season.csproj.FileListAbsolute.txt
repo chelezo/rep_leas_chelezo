@@ -1,0 +1,14 @@
+C:\repo\repo_chelezo\season\season\obj\Debug\netcoreapp3.1\season.csproj.AssemblyReference.cache
+C:\repo\repo_chelezo\season\season\obj\Debug\netcoreapp3.1\season.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\repo_chelezo\season\season\obj\Debug\netcoreapp3.1\season.AssemblyInfoInputs.cache
+C:\repo\repo_chelezo\season\season\obj\Debug\netcoreapp3.1\season.AssemblyInfo.cs
+C:\repo\repo_chelezo\season\season\obj\Debug\netcoreapp3.1\season.csproj.CoreCompileInputs.cache
+C:\repo\repo_chelezo\season\season\bin\Debug\netcoreapp3.1\season.exe
+C:\repo\repo_chelezo\season\season\bin\Debug\netcoreapp3.1\season.deps.json
+C:\repo\repo_chelezo\season\season\bin\Debug\netcoreapp3.1\season.runtimeconfig.json
+C:\repo\repo_chelezo\season\season\bin\Debug\netcoreapp3.1\season.runtimeconfig.dev.json
+C:\repo\repo_chelezo\season\season\bin\Debug\netcoreapp3.1\season.dll
+C:\repo\repo_chelezo\season\season\bin\Debug\netcoreapp3.1\season.pdb
+C:\repo\repo_chelezo\season\season\obj\Debug\netcoreapp3.1\season.dll
+C:\repo\repo_chelezo\season\season\obj\Debug\netcoreapp3.1\season.pdb
+C:\repo\repo_chelezo\season\season\obj\Debug\netcoreapp3.1\season.genruntimeconfig.cache

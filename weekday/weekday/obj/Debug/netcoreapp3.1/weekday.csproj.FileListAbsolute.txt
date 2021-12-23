@@ -1,0 +1,14 @@
+C:\repo\repo_chelezo\weekday\weekday\obj\Debug\netcoreapp3.1\weekday.csproj.AssemblyReference.cache
+C:\repo\repo_chelezo\weekday\weekday\obj\Debug\netcoreapp3.1\weekday.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\repo_chelezo\weekday\weekday\obj\Debug\netcoreapp3.1\weekday.AssemblyInfoInputs.cache
+C:\repo\repo_chelezo\weekday\weekday\obj\Debug\netcoreapp3.1\weekday.AssemblyInfo.cs
+C:\repo\repo_chelezo\weekday\weekday\obj\Debug\netcoreapp3.1\weekday.csproj.CoreCompileInputs.cache
+C:\repo\repo_chelezo\weekday\weekday\bin\Debug\netcoreapp3.1\weekday.exe
+C:\repo\repo_chelezo\weekday\weekday\bin\Debug\netcoreapp3.1\weekday.deps.json
+C:\repo\repo_chelezo\weekday\weekday\bin\Debug\netcoreapp3.1\weekday.runtimeconfig.json
+C:\repo\repo_chelezo\weekday\weekday\bin\Debug\netcoreapp3.1\weekday.runtimeconfig.dev.json
+C:\repo\repo_chelezo\weekday\weekday\bin\Debug\netcoreapp3.1\weekday.dll
+C:\repo\repo_chelezo\weekday\weekday\bin\Debug\netcoreapp3.1\weekday.pdb
+C:\repo\repo_chelezo\weekday\weekday\obj\Debug\netcoreapp3.1\weekday.dll
+C:\repo\repo_chelezo\weekday\weekday\obj\Debug\netcoreapp3.1\weekday.pdb
+C:\repo\repo_chelezo\weekday\weekday\obj\Debug\netcoreapp3.1\weekday.genruntimeconfig.cache
