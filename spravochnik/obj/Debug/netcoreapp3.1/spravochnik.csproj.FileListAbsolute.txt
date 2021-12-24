@@ -12,3 +12,17 @@ C:\repo\repo_chelezo\spravochnik\obj\Debug\netcoreapp3.1\spravochnik.csproj.Core
 C:\repo\repo_chelezo\spravochnik\obj\Debug\netcoreapp3.1\spravochnik.dll
 C:\repo\repo_chelezo\spravochnik\obj\Debug\netcoreapp3.1\spravochnik.pdb
 C:\repo\repo_chelezo\spravochnik\obj\Debug\netcoreapp3.1\spravochnik.genruntimeconfig.cache
+C:\repository\rep_leas_chelezo\spravochnik\bin\Debug\netcoreapp3.1\spravochnik.exe
+C:\repository\rep_leas_chelezo\spravochnik\bin\Debug\netcoreapp3.1\spravochnik.deps.json
+C:\repository\rep_leas_chelezo\spravochnik\bin\Debug\netcoreapp3.1\spravochnik.runtimeconfig.json
+C:\repository\rep_leas_chelezo\spravochnik\bin\Debug\netcoreapp3.1\spravochnik.runtimeconfig.dev.json
+C:\repository\rep_leas_chelezo\spravochnik\bin\Debug\netcoreapp3.1\spravochnik.dll
+C:\repository\rep_leas_chelezo\spravochnik\bin\Debug\netcoreapp3.1\spravochnik.pdb
+C:\repository\rep_leas_chelezo\spravochnik\obj\Debug\netcoreapp3.1\spravochnik.csproj.AssemblyReference.cache
+C:\repository\rep_leas_chelezo\spravochnik\obj\Debug\netcoreapp3.1\spravochnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\rep_leas_chelezo\spravochnik\obj\Debug\netcoreapp3.1\spravochnik.AssemblyInfoInputs.cache
+C:\repository\rep_leas_chelezo\spravochnik\obj\Debug\netcoreapp3.1\spravochnik.AssemblyInfo.cs
+C:\repository\rep_leas_chelezo\spravochnik\obj\Debug\netcoreapp3.1\spravochnik.csproj.CoreCompileInputs.cache
+C:\repository\rep_leas_chelezo\spravochnik\obj\Debug\netcoreapp3.1\spravochnik.dll
+C:\repository\rep_leas_chelezo\spravochnik\obj\Debug\netcoreapp3.1\spravochnik.pdb
+C:\repository\rep_leas_chelezo\spravochnik\obj\Debug\netcoreapp3.1\spravochnik.genruntimeconfig.cache

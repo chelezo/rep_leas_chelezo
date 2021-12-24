@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repo\\repo_chelezo\\spravochnik\\spravochnik.csproj": {}
+    "C:\\repository\\rep_leas_chelezo\\spravochnik\\spravochnik.csproj": {}
   },
   "projects": {
-    "C:\\repo\\repo_chelezo\\spravochnik\\spravochnik.csproj": {
+    "C:\\repository\\rep_leas_chelezo\\spravochnik\\spravochnik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repo\\repo_chelezo\\spravochnik\\spravochnik.csproj",
+        "projectUniqueName": "C:\\repository\\rep_leas_chelezo\\spravochnik\\spravochnik.csproj",
         "projectName": "spravochnik",
-        "projectPath": "C:\\repo\\repo_chelezo\\spravochnik\\spravochnik.csproj",
+        "projectPath": "C:\\repository\\rep_leas_chelezo\\spravochnik\\spravochnik.csproj",
         "packagesPath": "C:\\Users\\администратор\\.nuget\\packages\\",
-        "outputPath": "C:\\repo\\repo_chelezo\\spravochnik\\obj\\",
+        "outputPath": "C:\\repository\\rep_leas_chelezo\\spravochnik\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
