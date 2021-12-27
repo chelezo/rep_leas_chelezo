@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EnterSeas_Leasson4/1.0.0": {
+        "runtime": {
+          "EnterSeas_Leasson4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnterSeas_Leasson4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
