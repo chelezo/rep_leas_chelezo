@@ -1,0 +1,14 @@
+C:\3\repo_chelezo\fibonachi\fibonachi\bin\Debug\netcoreapp3.1\fibonachi.exe
+C:\3\repo_chelezo\fibonachi\fibonachi\bin\Debug\netcoreapp3.1\fibonachi.deps.json
+C:\3\repo_chelezo\fibonachi\fibonachi\bin\Debug\netcoreapp3.1\fibonachi.runtimeconfig.json
+C:\3\repo_chelezo\fibonachi\fibonachi\bin\Debug\netcoreapp3.1\fibonachi.runtimeconfig.dev.json
+C:\3\repo_chelezo\fibonachi\fibonachi\bin\Debug\netcoreapp3.1\fibonachi.dll
+C:\3\repo_chelezo\fibonachi\fibonachi\bin\Debug\netcoreapp3.1\fibonachi.pdb
+C:\3\repo_chelezo\fibonachi\fibonachi\obj\Debug\netcoreapp3.1\fibonachi.csproj.AssemblyReference.cache
+C:\3\repo_chelezo\fibonachi\fibonachi\obj\Debug\netcoreapp3.1\fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\3\repo_chelezo\fibonachi\fibonachi\obj\Debug\netcoreapp3.1\fibonachi.AssemblyInfoInputs.cache
+C:\3\repo_chelezo\fibonachi\fibonachi\obj\Debug\netcoreapp3.1\fibonachi.AssemblyInfo.cs
+C:\3\repo_chelezo\fibonachi\fibonachi\obj\Debug\netcoreapp3.1\fibonachi.csproj.CoreCompileInputs.cache
+C:\3\repo_chelezo\fibonachi\fibonachi\obj\Debug\netcoreapp3.1\fibonachi.dll
+C:\3\repo_chelezo\fibonachi\fibonachi\obj\Debug\netcoreapp3.1\fibonachi.pdb
+C:\3\repo_chelezo\fibonachi\fibonachi\obj\Debug\netcoreapp3.1\fibonachi.genruntimeconfig.cache

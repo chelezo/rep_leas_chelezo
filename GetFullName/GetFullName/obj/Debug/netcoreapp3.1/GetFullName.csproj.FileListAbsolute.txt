@@ -1,0 +1,14 @@
+C:\3\repo_chelezo\GetFullName\GetFullName\bin\Debug\netcoreapp3.1\GetFullName.exe
+C:\3\repo_chelezo\GetFullName\GetFullName\bin\Debug\netcoreapp3.1\GetFullName.deps.json
+C:\3\repo_chelezo\GetFullName\GetFullName\bin\Debug\netcoreapp3.1\GetFullName.runtimeconfig.json
+C:\3\repo_chelezo\GetFullName\GetFullName\bin\Debug\netcoreapp3.1\GetFullName.runtimeconfig.dev.json
+C:\3\repo_chelezo\GetFullName\GetFullName\bin\Debug\netcoreapp3.1\GetFullName.dll
+C:\3\repo_chelezo\GetFullName\GetFullName\bin\Debug\netcoreapp3.1\GetFullName.pdb
+C:\3\repo_chelezo\GetFullName\GetFullName\obj\Debug\netcoreapp3.1\GetFullName.csproj.AssemblyReference.cache
+C:\3\repo_chelezo\GetFullName\GetFullName\obj\Debug\netcoreapp3.1\GetFullName.GeneratedMSBuildEditorConfig.editorconfig
+C:\3\repo_chelezo\GetFullName\GetFullName\obj\Debug\netcoreapp3.1\GetFullName.AssemblyInfoInputs.cache
+C:\3\repo_chelezo\GetFullName\GetFullName\obj\Debug\netcoreapp3.1\GetFullName.AssemblyInfo.cs
+C:\3\repo_chelezo\GetFullName\GetFullName\obj\Debug\netcoreapp3.1\GetFullName.csproj.CoreCompileInputs.cache
+C:\3\repo_chelezo\GetFullName\GetFullName\obj\Debug\netcoreapp3.1\GetFullName.dll
+C:\3\repo_chelezo\GetFullName\GetFullName\obj\Debug\netcoreapp3.1\GetFullName.pdb
+C:\3\repo_chelezo\GetFullName\GetFullName\obj\Debug\netcoreapp3.1\GetFullName.genruntimeconfig.cache
